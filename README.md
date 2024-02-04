@@ -7,7 +7,7 @@ The Geometry3K  dataset is now available on [Geometry3K](https://lupantech.githu
 
 The GeoQA dataset is now available on [GeoQA](https://drive.google.com/drive/folders/1fiLTJUq7EPiZHs6AxundNfNEDLw4gtP5).
 
-Before reproducing our code, we need to convert the dataset above into formal language through [Data annotation tools](https://github.com/lupantech/InterGPS).
+Before reproducing our code, you need to convert the dataset above into formal language through [Data annotation tools](https://github.com/lupantech/InterGPS).
 
 ## Installation
 
