@@ -11,11 +11,11 @@ Before reproducing our code, we need to convert the dataset above into formal la
 
 ## Installation
 
-1.Clone current repo
+1. Clone current repo
  ```bash
     git https://github.com/chanllon/GeoQKG.git
  ```
-2.Requirements
+2. Requirements
 
 ```bash
     pip install -r requirements.txt
